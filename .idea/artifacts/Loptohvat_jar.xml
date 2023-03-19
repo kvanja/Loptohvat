@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Loptohvat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Loptohvat_jar</output-path>
+    <root id="archive" name="Loptohvat.jar">
+      <element id="module-output" name="Loptohvat" />
+    </root>
+  </artifact>
+</component>
